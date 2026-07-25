@@ -49,3 +49,6 @@ npm start
 ```
 
 ## 📂 Folder Structure
+├── frontend/
+├── backend/
+├── admin/ 
